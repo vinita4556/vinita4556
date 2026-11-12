@@ -1,5 +1,21 @@
-# 💫 About Me:
-Hi, I'm **Vinita Parmar** — a Computer Science Engineering student passionate about building **scalable web applications and AI-powered solutions**.<br><br>💻 **Java Full Stack Developer in the making**<br>🧩 Practicing **DSA in C++ & Java**<br>🌐 Building projects with **React.js, Spring Boot, Node.js & MySQL**<br>🤖 Exploring **AI/ML and Generative AI**<br>🚀 Interested in creating real-world projects that solve meaningful problems<br>📚 Currently focused on **DSA, Full Stack Development & Placement Preparation**<br><br>### 🎯 My Goal<br><br>To become a strong **Software Engineer** and build impactful products while continuously learning and improving.<br><br>> *Code. Learn. Build. Repeat. 🚀*<br>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&text=Hi,%20I'm%20Vinita%20Parmar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Building%20Ideas%20Into%20Digital%20Solutions&descAlignY=70&descSize=16" width="100%" />
+
+<br/>
+
+💻 Java Full Stack Developer | Software Engineer | Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F36B21&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+React.js;DSA+%7C+Problem+Solving;Exploring+AI+%26+Generative+AI" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vinita4556&label=PROFILE+VIEWS&color=F36B21&style=for-the-badge" />
+
+<br/><br/>
+⚡ Code. Build. Learn. Evolve. ⚡
+
+</div>
 
 
 ## 🌐 Socials:
