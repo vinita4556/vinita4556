@@ -14,8 +14,25 @@
 
 <br/><br/>
 ⚡ Code. Build. Learn. Evolve. ⚡
-
 </div>
+
+👩🏻‍💻 Who I Am
+
+Hey! I'm Vinita Parmar, a Computer Science Engineering student passionate about building meaningful digital products and solving real-world problems through technology.
+
+I enjoy exploring the world of software development — from crafting responsive user interfaces to developing backend systems and integrating intelligent solutions.
+
+🚀 Building: Full Stack Web Applications using Java, Spring Boot & React.js.
+
+🧠 Practicing: Data Structures & Algorithms in Java and C++.
+
+⚙️ Exploring: REST APIs, Backend Development & Database Management.
+
+🤖 Learning: Artificial Intelligence, Machine Learning & Generative AI.
+
+🌱 Growing: Continuously improving my problem-solving and software engineering skills.
+
+🎯 Focused On: Software Engineering Opportunities, Internships & Open Source.
 
 
 ## 🌐 Socials:
