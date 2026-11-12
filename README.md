@@ -1,35 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&text=Hi,%20I'm%20Vinita%20Parmar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Building%20Ideas%20Into%20Digital%20Solutions&descAlignY=70&descSize=16" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:172554,100:F36B21&height=240&section=header&text=VINITA%20PARMAR&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=15&descAlignY=58&animation=fadeIn" />
 
 <br/>
 
-💻 Java Full Stack Developer | Software Engineer | Problem Solver
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F36B21&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+React.js;DSA+%7C+Problem+Solving;Exploring+AI+%26+Generative+AI" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vinita4556&label=PROFILE+VIEWS&color=F36B21&style=for-the-badge" />
+<a href="https://github.com/vinita4556">
+<img src="https://img.shields.io/badge/GitHub-vinita4556-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/vinita-parmar-4589162b8/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:vinitaparmar@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-⚡ Code. Build. Learn. Evolve. ⚡
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=F36B21&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+React.js;Turning+Ideas+Into+Real+Products;DSA+%7C+Problem+Solving+%7C+AI" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vinita4556&style=flat-square&color=F36B21&label=PROFILE+VIEWS" />
 
 </div>
 
-👩🏻‍💻 Who I Am
+◈ THE DEVELOPER
 
-Hey! I'm Vinita Parmar, a Computer Science Engineering student passionate about building meaningful digital products and solving real-world problems through technology.
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I enjoy exploring the world of software development — from crafting responsive user interfaces to developing backend systems and integrating intelligent solutions.
+Hey, I'm Vinita! 👋
 
-🚀 Building: Full Stack Web Applications using Java, Spring Boot & React.js.
-🧠 Practicing: Data Structures & Algorithms in Java and C++.
-⚙️ Exploring: REST APIs, Backend Development & Database Management.
-🤖 Learning: Artificial Intelligence, Machine Learning & Generative AI.
-🌱 Growing: Continuously improving my problem-solving and software engineering skills.
-🎯 Focused On: Software Engineering Opportunities, Internships & Open Source.
+I'm a Computer Science Engineering student passionate about engineering meaningful digital experiences and building solutions that solve real-world problems.
+
+I enjoy working across the development lifecycle — from crafting responsive interfaces to developing backend architectures and integrating intelligent technologies.
+
+💻 Developing full-stack applications.
+
+☕ Building backend solutions with Java & Spring Boot.
+
+⚛️ Creating interactive interfaces using React.js.
+
+🧠 Strengthening DSA and problem-solving skills.
+
+🤖 Exploring AI, ML & Generative AI.
+
+🚀 Preparing for Software Engineering opportunities.
+
+<br clear="right"/>
 
 
 ## 🌐 Socials:
