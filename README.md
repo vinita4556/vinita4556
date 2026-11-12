@@ -26,8 +26,6 @@
 
 ◈ THE DEVELOPER
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 Hey, I'm Vinita! 👋
 
 I'm a Computer Science Engineering student passionate about engineering meaningful digital experiences and building solutions that solve real-world problems.
